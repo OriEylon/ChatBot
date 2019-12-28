@@ -1,4 +1,4 @@
-# ChatBot
+# Chat Server
  this is a chat server that i built.
  
  server listens on port 9999.

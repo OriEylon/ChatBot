@@ -13,4 +13,4 @@
  
  all server activity is logged in the logger
  
- see logger and config file for example
+ provided logger and config file for example
